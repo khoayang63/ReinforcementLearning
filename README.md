@@ -8,7 +8,7 @@ Chào mừng bạn đến với kho lưu trữ thực hành về **Học tăng c
 
 ## 📌 Nội dung chính của Repository
 
-Dự án được chia làm 2 chủ đề lớn cực kỳ rõ ràng:
+Dự án được chia làm 2 chủ đề lớn:
 
 ### 1. Học tăng cường cổ điển (Classic RL)
 * **[DDQN.ipynb](./DDQN.ipynb)**: Huấn luyện Rắn săn mồi (Snake Game) tự chơi trên lưới 10x10 bằng thuật toán **Double Deep Q-Network (DDQN)**.
